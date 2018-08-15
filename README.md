@@ -7,4 +7,4 @@ Data I'm using:
   <li>Enrollment in free/reduced lunch programs, available for both <a href="https://datacenter.kidscount.org/data/tables/1964-students-enrolled-in-free-reduced-price-lunch?loc=27&loct=2#detailed/5/4149-4263/false/870,573,869,36,868,867,133,38,35,18/any/4132,17339" target="_blank">Missouri</a> and <a href="https://datacenter.kidscount.org/data/tables/1277-free-and-reduced-lunch?loc=18&loct=2#detailed/2/any/false/871,870,573,869,36,868,867,133,38,35/any/2761" target="_blank">Kansas</a> through KIDS COUNT.</li>
 </ul>
 
-This is my first project using Python. Stay tuned!
+I didn't end up using this analysis for my final story, but it allowed me to practice plumbing pdfs and analyzing data in Python.
